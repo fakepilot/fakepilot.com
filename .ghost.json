@@ -1,0 +1,10 @@
+{
+    "development": {
+        "apiUrl": "http://localhost:8000",
+        "contentApiKey": "fc3542aab59e5e12c39accf478"
+    },
+    "production": {
+        "apiUrl": "https://fake-space.digitalpress.blog",
+        "contentApiKey": "fc3542aab59e5e12c39accf478"
+    }
+}
