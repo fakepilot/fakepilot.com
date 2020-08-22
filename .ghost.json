@@ -1,10 +1,10 @@
 {
     "development": {
-        "GHOST_API_URL": "http://localhost:8000",
-        "GHOST_CONTENT_API_KEY": "fc3542aab59e5e12c39accf478"
+        "apiUrl": "http://localhost:8000",
+        "contentApiKey": "fc3542aab59e5e12c39accf478"
     },
     "production": {
-        "GHOST_API_URL": "https://fake-space.digitalpress.blog",
-        "GHOST_CONTENT_API_KEY": "fc3542aab59e5e12c39accf478"
+        "apiUrl": "https://fake-space.digitalpress.blog",
+        "contentApiKey": "fc3542aab59e5e12c39accf478"
     }
 }
