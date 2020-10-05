@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://fake-space.com`,
+    siteUrl: `https://fakepilot.com`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -10,13 +10,13 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Ghost Gatsby site for Fake-Space`,
+    siteTitleMeta: `Ghost Gatsby site for Fakepilot.com`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `It's Not What You Think`,
+    siteDescriptionMeta: `Mattias Lindberg, FX Artist and Motion Designer from Stockholm, Sweden.`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
-    shortTitle: `Fake-Space`,
+    shortTitle: `Fake Pilot`,
     siteIcon: `favicon.png`,
     backgroundColor: `#e9e9e9`,
     themeColor: `#15171A`,
