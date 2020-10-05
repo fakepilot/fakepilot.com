@@ -2,6 +2,8 @@ module.exports = {
 
     basePath: `/`,
 
-    collections: [],
-
+    collections: [{
+        path: `fakepilot`,
+        selector: node => node.primary_author && node.primary_author.slug === `fake pilot`,
+    }],
 }
