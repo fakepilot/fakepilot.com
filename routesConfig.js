@@ -4,6 +4,6 @@ module.exports = {
 
     collections: [{
         path: `/`,
-        selector: node => node.author && node.author.slug === `fakepilot`,
+        selector: node => node.primary_author && node.primary_author.slug === `spaceformula`,
     }],
 }
